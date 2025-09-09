@@ -1,0 +1,32 @@
+﻿Class 8 Science - The Stars and the Solar System
+(NCERT Questions & Answers)
+
+Q1: What is the difference between a star and a planet?
+Ans: Stars emit their own light and are very large in size, for example, the Sun. Planets do not emit
+their own light; they reflect light from stars, e.g., Earth, Mars.
+
+Q2: What is a constellation? Name any two.
+Ans: A constellation is a group of stars that appear to form a recognizable pattern in the sky.
+Examples: Ursa Major, Orion.
+
+Q3: What is the Solar System?
+Ans: The Solar System consists of the Sun and celestial bodies such as planets, moons, asteroids,
+comets, and meteors that revolve around it.
+
+Q4: Name the planets of the Solar System in order of their distance from the Sun.
+Ans: Mercury, Venus, Earth, Mars, Jupiter, Saturn, Uranus, Neptune.
+
+Q5: What is the Pole Star and why is it important?
+Ans: The Pole Star (Polaris) lies nearly in a line with Earth's axis of rotation. It appears fixed in the
+sky and helps in navigation.
+
+Q6: What are meteors and meteorites?
+Ans: Meteors are small objects that enter Earth's atmosphere and burn due to friction, producing
+light (shooting stars). If a meteor survives and falls on Earth’s surface, it is called a meteorite.
+
+Q7: Why does the Moon not have its own light?
+Ans: The Moon reflects the light of the Sun. It does not produce its own light.
+
+Q8: What is an artificial satellite? Give examples.
+Ans: Artificial satellites are man-made objects launched into space to revolve around Earth.
+Examples: INSAT, Aryabhata, GSAT, Kalpana-1.
